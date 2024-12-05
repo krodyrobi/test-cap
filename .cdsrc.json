@@ -1,0 +1,6 @@
+{
+  "typer": {
+    "use_entities_proxy": true,
+    "output_directory": "@cds-models"
+  }
+}
